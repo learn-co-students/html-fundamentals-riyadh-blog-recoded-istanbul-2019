@@ -6,8 +6,8 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
+  background: url(../images/backgrounds/architecture.jpg) center;
+  background-size:repeat;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
