@@ -30,16 +30,19 @@ h1, h2 {
 }
 
 h1 {
+  color: red;
   font-size: 3.5em;
   margin-bottom: 0;
 }
 
 h2 {
+  color: yellow;
   font-size: 1.5em;
   margin-top: .5em;
 }
 
 h3 {
+  color: peru;
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
@@ -52,11 +55,12 @@ img {
 }
 
 p {
+  color: crimson;
   font-size: 1em;
 }
 
 a {
-  color: black;
+  color: pink;
   text-decoration: none;
 }
 
