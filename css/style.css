@@ -19,6 +19,10 @@ body {
   padding-bottom: 40px;
 }
 
+.wrapper h3 {
+  color: azure;
+}
+
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
